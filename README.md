@@ -64,4 +64,4 @@ yarn run start
 
 ## 🏷️ License
 
-MIT © [pmohanaprasad](https://github.com/pmohanaprasad/Hydro-Chemical-Analysis/blob/main/LICENSE)
+MIT © [prahlad-narayan](https://github.com/Prahlad-Narayan/HydroSpec/blob/main/LICENSE)
